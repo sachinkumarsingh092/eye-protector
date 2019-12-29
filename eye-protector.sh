@@ -31,7 +31,7 @@
 # Constants and exported variables should be capitalised.
 # "Rome was not built in a day."
 #
-# Lastly, screw any specification you don't like. They are meant as a guide, which you can always ignore. 
+# Lastly, screw any specification you don't like. They are meant as a guide, which you can always choose to ignore. 
 #---------------------------------------------------------------------------------------------------------------------
 #######################################################################################################################
 
