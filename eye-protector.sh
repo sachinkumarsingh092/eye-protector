@@ -136,6 +136,7 @@ function main() {
 				;;
 				
 	  		*) 
+				echo "Invalid option. Use -h for help.
 				exit 1
 				;;
 	  	esac
